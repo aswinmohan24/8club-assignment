@@ -27,8 +27,8 @@ The UI and state management are built using **Flutter**, **Riverpod**, and **Scr
 
 ## ⭐ Brownie Points (Enhancements Implemented)
 
-| Enhancement | Status |
-|------------|--------|
+| Enhancement |
+|------------|
 | Pixel-perfect styling based on Figma
 | Responsive UI using `flutter_screenutil`
 | State Management using **Riverpod** 
