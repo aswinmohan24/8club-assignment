@@ -20,7 +20,6 @@ The UI and state management are built using **Flutter**, **Riverpod**, and **Scr
 - Multi-line input field with **600 character limit**
 - UI layout adapts dynamically to keyboard & device height
 - Audio  recording UI elements placed as per design
-- 
 - Option to delete and re-record media
 
 ---
